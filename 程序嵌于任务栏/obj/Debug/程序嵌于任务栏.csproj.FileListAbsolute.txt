@@ -1,0 +1,14 @@
+E:\项目\2014项目\2月\程序嵌于任务栏\程序嵌于任务栏\bin\Debug\程序嵌于任务栏.exe.config
+E:\项目\2014项目\2月\程序嵌于任务栏\程序嵌于任务栏\bin\Debug\程序嵌于任务栏.exe
+E:\项目\2014项目\2月\程序嵌于任务栏\程序嵌于任务栏\bin\Debug\程序嵌于任务栏.pdb
+E:\项目\2014项目\2月\程序嵌于任务栏\程序嵌于任务栏\obj\Debug\MainWindow.baml
+E:\项目\2014项目\2月\程序嵌于任务栏\程序嵌于任务栏\obj\Debug\MainWindow.g.cs
+E:\项目\2014项目\2月\程序嵌于任务栏\程序嵌于任务栏\obj\Debug\App.g.cs
+E:\项目\2014项目\2月\程序嵌于任务栏\程序嵌于任务栏\obj\Debug\程序嵌于任务栏_MarkupCompile.cache
+E:\项目\2014项目\2月\程序嵌于任务栏\程序嵌于任务栏\obj\Debug\程序嵌于任务栏.g.resources
+E:\项目\2014项目\2月\程序嵌于任务栏\程序嵌于任务栏\obj\Debug\程序嵌于任务栏.Properties.Resources.resources
+E:\项目\2014项目\2月\程序嵌于任务栏\程序嵌于任务栏\obj\Debug\程序嵌于任务栏.csproj.GenerateResource.Cache
+E:\项目\2014项目\2月\程序嵌于任务栏\程序嵌于任务栏\obj\Debug\程序嵌于任务栏.exe
+E:\项目\2014项目\2月\程序嵌于任务栏\程序嵌于任务栏\obj\Debug\程序嵌于任务栏.pdb
+E:\项目\2014项目\2月\程序嵌于任务栏\程序嵌于任务栏\obj\Debug\ContentWindow.baml
+E:\项目\2014项目\2月\程序嵌于任务栏\程序嵌于任务栏\obj\Debug\ContentWindow.g.cs
